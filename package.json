@@ -8,7 +8,7 @@
     "@material-ui/lab": "^4.0.0-alpha.26",
     "clsx": "^1.0.4",
     "customize-cra": "^0.6.0",
-    "firebase": "^6.2.4",
+    "firebase": "^10.9.0",
     "lodash.throttle": "^4.1.1",
     "normalizr": "^3.4.1",
     "react": "^16.9.0",
